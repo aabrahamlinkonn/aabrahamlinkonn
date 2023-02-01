@@ -33,4 +33,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabrahamlinkonn&theme=radical)
 
-[![](https://raw.githubusercontent.com/aabrahamlinkonn/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/aabrahamlinkonn/github-profile-summary-cards)
+[![](https://raw.github.com/aabrahamlinkonn/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/aabrahamlinkonn/github-profile-summary-cards)
