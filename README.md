@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LINKON HASAN</h1>
-<h3 align="center">Striving a functional web based programmer</h3>
+<h3 align="center"> functional web based programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabrahamlinkonn&label=Profile%20views&color=0e75b6&style=flat" alt="aabrahamlinkonn" /> </p>
 
