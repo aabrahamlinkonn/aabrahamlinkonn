@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabrahamlinkonn&show_icons=true&locale=en&layout=compact" alt="aabrahamlinkonn" /></p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabrahamlinkonn&theme=radical)
