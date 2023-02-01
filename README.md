@@ -33,4 +33,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabrahamlinkonn&theme=radical)
 
-![](https://raw.githubusercontent.com/LINKONHASAN/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)
